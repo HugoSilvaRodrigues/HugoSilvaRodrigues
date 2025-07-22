@@ -1,4 +1,6 @@
-## 👋 Hugo
+## 👋 Hi
+
+Repositories of projects and studies focused primarily on **Python** and **AWS** to build **AI applications**.
 
 ---
 
